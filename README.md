@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Qatch CSharp Benchmark Repository 
 
 ## Project Info (alphabetical)
@@ -50,7 +49,3 @@
   - https://github.com/danielgerlag/workflow-core
   - LLoC: 19,143
   - Project Root: `workflow-core`
-=======
-# benchmark-repository
-Collection of C# .NET 4.7 projects for use in Qatch benchmarking
->>>>>>> 79f902bc77e76df32f09760e8c6a1817b9add417
