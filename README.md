@@ -37,10 +37,6 @@
     - https://github.com/ShareX/ShareX
     - LLoC: 78,711
     - Project Root: `ShareX`
-1) WinAppDriver
-    - https://github.com/microsoft/WinAppDriver
-    - LLoC: 4,475
-    - Project Root: `WinAppDriver/ApplicationUnderTests/AppUIBasics`
 1) workflow-core
     - https://github.com/danielgerlag/workflow-core
     - LLoC: 19,143
