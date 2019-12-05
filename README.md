@@ -37,10 +37,6 @@
     - https://github.com/ShareX/ShareX
     - LLoC: 78,711
     - Project Root: `ShareX`
-1) try
-    - https://github.com/dotnet/try
-    - LLoC: 28,910
-    - Project Root: `try`
 1) WinAppDriver
     - https://github.com/microsoft/WinAppDriver
     - LLoC: 4,475
