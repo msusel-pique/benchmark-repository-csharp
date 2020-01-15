@@ -22,13 +22,6 @@
     - https://github.com/chocolatey/choco
 1) CodeHub
     - https://github.com/CodeHubApp/CodeHub
-    - LLoC:
-1) Dapper
-    - https://github.com/StackExchange/Dapper
-    - LLoC: 58,368
-1) dnSpy
-    - https://github.com/0xd4d/dnSpy
-    - LLoC: 663,186
 1) Electron.NET
     - https://github.com/ElectronNET/Electron.NET
 1) Entitas-CSharp
@@ -51,12 +44,8 @@
     - https://github.com/HangfireIO/Hangfire
 1) Humanizer
     - https://github.com/Humanizr/Humanizer
-1) ILSpy
-    - https://github.com/icsharpcode/ILSpy
-    - LLoC: 149,267
 1) iotedge
     - https://github.com/Azure/iotedge
-    - LLoC: 122,389
 1) jellyfin
     - https://github.com/jellyfin/jellyfin
     - LLoC: 137,535
@@ -67,17 +56,11 @@
     - LLoc:
 1) MahApps.Metro
     - https://github.com/MahApps/MahApps.Metro
-1) MaterialDesignInXamlToolkit
-    - https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
-    - LLoC: 44,248
 1) mRemoteNG
     - https://github.com/mRemoteNG/mRemoteNG
 1) msbuild
     - https://github.com/microsoft/msbuild
     - LLoC: 785,821
-1) Newtonsoft.Json
-    - https://github.com/JamesNK/Newtonsoft.Json
-    - LLoC: 898,836
 1) NLog
     - https://github.com/NLog/NLog
 1) Ocelot
@@ -119,8 +102,6 @@
     - https://github.com/hbons/SparkleShare
 1) StackExchange.Redis
     - https://github.com/StackExchange/StackExchange.Redis
-1) VFSForGit
-    - https://github.com/microsoft/VFSForGit
 1) WaveFunctionCollapse
     - https://github.com/mxgmn/WaveFunctionCollapse
 1) workflow-core
